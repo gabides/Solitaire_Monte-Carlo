@@ -16,4 +16,6 @@ When launched, player has 4 options :
 
 4 - Monte Carlo resolution, game sequence is saved
 
-options 2 and 3 return the score (number of cells left at the end of the game). Option 4 also returns the statically best sequence to be played (based on Monte Carlo algorithm).
+Options 2 and 3 return the score (number of cells left at the end of the game). Option 4 also returns the statically best sequence to be played (based on Monte Carlo algorithm).
+
+Scholar software engineering project @CentraleSupélec (2016) with Louis-Alexis Dubief, teacher Arpad Rimmel.
